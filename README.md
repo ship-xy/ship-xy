@@ -1,4 +1,4 @@
-## HELLO THERE 👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&pause=2000&color=F76C6C&center=true&vCenter=true&width=435&lines=HI+THERE+%F0%9F%91%8B%2C+I'M+SHIVANG+...)](https://git.io/typing-svg)
 
 # 💫 About Me:
 - 🔭 I’m currently pursuing M.Sc. Operational Research from University of Delhi<br>
