@@ -1,23 +1,10 @@
-## Hi there 👋
+## HELLO THERE 👋
 
-<!--
-**ship-xy/ship-xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 💫 About Me:
-<br>🔭 I’m currently pursuing M.Sc. Operational Research from University of Delhi<br>
-<br>🔭 I've completed my B.Sc.(Physical Sciences) Electronics from ARSD College in 2026<br>
-<br>🌱 I’m currently learning data science , machine learning and operations research<br>
+- 🔭 I’m currently pursuing M.Sc. Operational Research from University of Delhi<br>
+- 💬 I've completed my B.Sc.(Physical Sciences) Electronics from ARSD College in 2026<br>
+- 🌱 I’m currently learning Data science ,Machine learning, Full Stack Developement and Operations research<br>
+- 🔭 I am seeking opportunities to collaborate on new projects to advance my career and acquire practical knowledge.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.shivaaaang._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ship-xy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ship-xy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_shivaang_ ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivangpatel457@gmail.com) 
